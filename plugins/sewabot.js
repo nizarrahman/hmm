@@ -57,7 +57,7 @@ _Total Fitur:_ 570++
 *⫹⫺ PAYMENT:*
 • *Gopay:*
 • *BCA:*
-• *QRIS*
+• *PULSA:*
 • *ALL PAYMENT*
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
