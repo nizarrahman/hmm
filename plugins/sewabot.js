@@ -5,7 +5,7 @@ let sh = '5'
 let sn = '15'
 let ss = '20'
 let sp = '35'
-let sv = '40'
+let sv = '50'
 //premium
 let ph = '5'
 let pn = '15'
@@ -20,6 +20,8 @@ let info = `
 ┊⫹⫺ *Hemat:* _${sh}k/grup (7 Hari)_
 ┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_                                         
 ┊⫹⫺ *permanen:* = _${sv}k/grup (unlimited)_
+┊⫹⫺ *Paket Lengkap GC Selec Dan Inti: _${sp}k (2bulan)_*
+┊⫹⫺ *NOTE! TAMBAHAN 5K BILA MENGGUNAKAN PULSA*
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
@@ -53,9 +55,8 @@ let info = `
 _Total Fitur:_ 570++
 
 *⫹⫺ PAYMENT:*
-• *Dana:*
 • *Gopay:*
-• *Ovo:*
+• *BCA:*
 • *QRIS*
 • *ALL PAYMENT*
 –––––– *🐾 Kebijakan* ––––––
